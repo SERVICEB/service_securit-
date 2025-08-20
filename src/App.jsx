@@ -39,5 +39,3 @@ export default function App(){
     </>
   )
 }
-
-npm audit fix --force
